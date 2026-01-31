@@ -1,4 +1,4 @@
-Criminal Justice Information Services (CJIS) Security Policy
+Criminal Justice Information Services (CJIS) Security Polic
 =========
 
 Ansible Role for Criminal Justice Information Services (CJIS) Security Policy  
